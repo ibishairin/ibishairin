@@ -94,12 +94,3 @@
 
 ---
 
-## ⚡ Reality Check
-If your repos don’t have:
-- Clean code  
-- Proper README  
-- Working projects  
-
-Then this profile design is useless.
-
-Focus on substance, not decoration.
