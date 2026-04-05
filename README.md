@@ -2,7 +2,7 @@
 <h3 align="center">💻 MERN Stack Developer | 🎓 BSc Computer Science Graduate</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&lines=Full+Stack+Developer;MERN+Stack+Engineer;Building+Real+World+Projects;Always+Learning+New+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&lines=Full+Stack+Developer;MERN+Stack+Developer;Building+Real+World+Projects;Always+Learning+New+Tech" />
 </p>
 
 ---
