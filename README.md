@@ -112,19 +112,6 @@ Projects > Certificates
 ```
 
 </div>
-
----
-
-# GitHub Stats
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ibishairin&theme=dracula&bg_color=0d1117&title_color=FFB6C1&text_color=ffffff" height="150" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ibishairin&theme=dracula&bg_color=0d1117&title_color=FFB6C1&text_color=ffffff" height="150" />
-
-</div>
-
 ---
 # Connect
 
