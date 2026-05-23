@@ -128,7 +128,7 @@ Projects > Certificates
 
 [![GitHub](https://img.shields.io/badge/GitHub-EAEAEA?style=for-the-badge&logo=github&logoColor=2B2D42)](https://github.com/ibishairin)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CAE9FF?style=for-the-badge&logo=linkedin&logoColor=2B2D42)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CAE9FF?style=for-the-badge&logo=linkedin&logoColor=2B2D42)](www.linkedin.com/in/ibisha-irin-183288361)
 
 </div>
 
