@@ -97,10 +97,9 @@ and sensor data analysis using Python.
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ibishairin&theme=github-dark&hide_border=true)](https://github.com/ibishairin)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ibishairin&theme=tokyo-night&hide_border=true)](https://github.com/ibishairin)
 
 </div>
-
 ---
 
 ## `ibisha@github:~$ echo $CURRENT_GOAL`
