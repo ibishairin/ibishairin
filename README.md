@@ -1,121 +1,152 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:050816,50:0A0F2C,100:050816&text=IBISHA%20IRIN&fontColor=7B8CFF&fontSize=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:8E7DBE,50:B8A1D9,100:9BB8D3&section=header&text=Ibisha%20Irin&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Backend%20Developer%20•%20FastAPI%20•%20PostgreSQL&descAlignY=60"/>
 
-### BACKEND DEVELOPER • FASTAPI • COMPUTER SCIENCE STUDENT
+# Hi there 👋
 
-<a href="https://linkedin.com/in/ibisha-irin-183288361">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=7B8CFF"/>
-</a>
-
-<a href="https://github.com/ibishairin">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=7B8CFF"/>
-</a>
-
-<a href="mailto:ibishairin@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=7B8CFF"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=2500&color=B8A1D9&center=true&vCenter=true&width=700&lines=Backend+Developer;FastAPI+Developer;REST+API+Designer;Building+Scalable+Applications" />
 
 </div>
 
 ---
 
-## `ibisha@github:~$ whoami`
+## About Me
 
 ```yaml
 name: Ibisha Irin
+
 location: Mumbai, India
 
-role:
-  Backend Developer
-
 education:
-  B.Sc Computer Science
+  degree: Bachelor of Science in Computer Science
 
 focus:
+  - Backend Development
+  - API Development
+  - Database Design
+
+tech_stack:
+  - Python
   - FastAPI
   - PostgreSQL
-  - REST APIs
-  - Backend Development
+  - Git
+  - GitHub
 ```
 
 ---
 
-## `ibisha@github:~$ stack`
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,mongodb,react,javascript,git,github,vscode,postman&theme=dark"/>
-
-</p>
-
----
-
-## `ibisha@github:~$ ls projects`
-
-### 💇 Salon Management System
-
-```txt
-React.js • FastAPI • PostgreSQL
-
-- Role-Based Access Control
-- Appointment Booking
-- Authentication
-- Customer Management
-- REST API Integration
-```
-
-### 🔐 Authentication APIs
-
-```txt
-FastAPI • JWT • PostgreSQL
-
-- User Authentication
-- Authorization
-- CRUD Operations
-- API Testing with Postman
-```
-
----
-
-## `ibisha@github:~$ cat experience.txt`
-
-```txt
-AI Intern
-Odcet Technologies
-
-June 2025 - August 2025
-
-Worked on machine failure prediction workflows,
-data preprocessing,
-and sensor data analysis using Python.
-```
-
----
-
-## `ibisha@github:~$ cat stats.txt`
+## Tech Stack
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ibishairin&theme=tokyo-night&hide_border=true)](https://github.com/ibishairin)
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,git,github,postman,vscode,html,css,js&theme=dark" />
 
 </div>
----
-
-## `ibisha@github:~$ echo $CURRENT_GOAL`
-
-```txt
-Building production-ready backend applications
-while improving database design and system architecture.
-```
 
 ---
 
-```bash
-ibisha@github:~$ echo $MOTTO
+## Featured Projects
 
-Code.
-Learn.
-Build.
-Repeat.
-```
+<div align="center">
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### 💇 Salon Management System
+
+FastAPI
+
+PostgreSQL
+
+JWT Authentication
+
+Role-Based Access
+
+</td>
+
+<td width="33%" align="center">
+
+### 🎫 CRM Ticket System
+
+FastAPI
+
+SQLite
+
+Ticket Tracking
+
+CRUD Operations
+
+</td>
+
+<td width="33%" align="center">
+
+### 📈 Sales Forecasting System
+
+FastAPI
+
+React
+
+Analytics Dashboard
+
+Forecasting
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ibishairin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibishairin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ibishairin&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/ibisha-irin-183288361">
+<img src="https://img.shields.io/badge/LinkedIn-B8A1D9?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ibishairin@gmail.com">
+<img src="https://img.shields.io/badge/Email-8E7DBE?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ibishairin">
+<img src="https://img.shields.io/badge/GitHub-9BB8D3?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✦ Building Reliable Backend Solutions ✦
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:9BB8D3,50:B8A1D9,100:8E7DBE&section=footer"/>
